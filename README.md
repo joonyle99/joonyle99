@@ -29,12 +29,12 @@ I'm studying game client programming. 🎮
 <br>
 
 <!-- 깃허브 스텟 표시 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joonyle99&theme=onedark&show_icons=true)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joonyle99&theme=onedark&show_icons=true) -->
 <br>
 <br>
 
 <!-- 깃허브 사용 언어 표시 -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joonyle99&layout=compact&theme=gruvbox)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joonyle99&layout=compact&theme=gruvbox) -->
 <br>
 <br>
 
