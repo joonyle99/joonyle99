@@ -23,10 +23,12 @@ I'm studying game programming. 🎮
 <img src="https://img.shields.io/badge/CPlusPlus-00599C?style=flat-square&logo=cplusplus&logoColor=ffffff"/> <img src="https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=csharp&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Resharper-000000?style=flat-square&logo=resharper&logoColor=ffffff"/>
 <br>
 
+<!--
 ### Tool
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=ffffff"/>
 <br>
 <br>
+-->
 
 <!-- 깃허브 스텟 표시 -->
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joonyle99&theme=onedark&show_icons=true)
