@@ -25,8 +25,6 @@ I'm studying game client programming. 🎮
 
 ### Tool
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=ffffff"/>
-<!-- <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=ffffff"/> -->
-<!-- <img src="https://img.shields.io/badge/Google Drive-4285F4?style=flat-square&logo=googledrive&logoColor=ffffff"/> -->
 <br>
 <br>
 
