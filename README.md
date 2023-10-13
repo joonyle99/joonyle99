@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ### Hi there 👋
-I'm studying game client programming. 🎮  
+I'm studying game programming. 🎮  
 <br>
 
 ### Platform & Language
