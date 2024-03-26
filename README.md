@@ -20,7 +20,7 @@ I'm studying game client programming. 🎮
 <a href="mailto:gongjunyeol@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=ffffff"/></a>
 
 ### Platform & Language
-<img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=ffffff"/> <img src="https://img.shields.io/badge/VS Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=#ffffff"/> <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=ffffff"/> <img src="https://img.shields.io/badge/VS Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=#ffffff"/>
 <br>
 <img src="https://img.shields.io/badge/CPlusPlus-00599C?style=flat-square&logo=cplusplus&logoColor=ffffff"/> <img src="https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=csharp&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=ffffff"/>
 <br>
