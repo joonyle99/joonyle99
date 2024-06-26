@@ -20,7 +20,7 @@ I'm studying game client programming. 🎮
   <a href="https://joonyle99.github.io"><img src="https://img.shields.io/badge/GitHub Blog-134881?style=flat-square&logo=github&logoColor=ffffff"/></a>
 </div>
 
-### Interesting
+### Interesting 🧠
 I'm fascinated by the AI revolution we're living through.
 
 <div>
@@ -39,7 +39,7 @@ I'm always exploring ways to integrate AI tools into my workflow to enhance **ef
 
 [AIEXE](https://www.npmjs.com/package/aiexe) : AI Agent for your Productivity 🤖
 
-### Currently Using
+### Currently Using 💻
 
 <div>
   <a>
@@ -64,7 +64,7 @@ I'm always exploring ways to integrate AI tools into my workflow to enhance **ef
   </a>
 </div>
 
-### Previously Used
+### Previously Used 🧰
 
 <div>
   <a>
@@ -82,7 +82,7 @@ I'm always exploring ways to integrate AI tools into my workflow to enhance **ef
   </a>
 </div>
 
-### Algorithm
+### Algorithm 📚
 
 <div>
   <!-- 백준 티어 표시
