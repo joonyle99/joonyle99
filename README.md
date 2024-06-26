@@ -20,6 +20,8 @@ I'm studying game client programming. 🎮
   <a href="https://joonyle99.github.io"><img src="https://img.shields.io/badge/GitHub Blog-134881?style=flat-square&logo=github&logoColor=ffffff"/></a>
 </div>
 
+<br>
+
 ### Interesting 🧠
 I'm fascinated by the AI revolution we're living through.
 
@@ -40,6 +42,8 @@ My interest lies in leveraging generative AI to boost **productivity** and creat
 I'm always exploring ways to integrate AI tools into my workflow to enhance **efficiency** and quality in game development.
 
 [AIEXE](https://www.npmjs.com/package/aiexe) : AI Agent for your Productivity 🤖
+
+<br>
 
 ### Currently Using 💻
 
@@ -83,6 +87,8 @@ I'm always exploring ways to integrate AI tools into my workflow to enhance **ef
     <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=ffffff"/>
   </a>
 </div>
+
+<br>
 
 ### Algorithm 📚
 
