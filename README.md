@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 I'm studying game client programming. 🎮
 
 <div>
-  <a href="https://joonyle99.github.io"><img src="https://img.shields.io/badge/Tech Blog-222222?style=flat-square&logo=github&logoColor=ffffff"/></a>
+  <a href="https://joonyle99.github.io"><img src="https://img.shields.io/badge/Blog-134881?style=flat-square&logo=github&logoColor=ffffff"/></a>
   <a href="mailto:gongjunyeol@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=ffffff"/></a>
 </div>
 
@@ -31,7 +31,7 @@ I'm studying game client programming. 🎮
   <br>
   <a>
 <!-- visual studio, vs code -->
-    <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=ffffff"/> <img src="https://img.shields.io/badge/VS Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=#ffffff"/>
+    <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=ffffff"/> <img src="https://img.shields.io/badge/VS Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=ffffff"/>
   </a>
   <br>
   <a>
