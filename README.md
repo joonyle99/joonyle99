@@ -49,11 +49,13 @@ I'm studying game client programming. 🎮
   <a>
     <img src="https://img.shields.io/badge/DirectX11-76B900?style=flat-square&logo=nvidia&logoColor=ffffff"/>
     <img src="https://img.shields.io/badge/Win32API-0078D4?style=flat-square&logo=windows11&logoColor=ffffff"/>
+  </a>
+  <br>
+  <a>
+    <img src="https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=ffffff"/>
     <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=ffffff"/>
   </a>
 </div>
-
-
 
 ### Algorithm
 
