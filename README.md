@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 I'm studying game client programming. 🎮
 
 <div>
-  <a href="https://joonyle99.github.io"><img src="https://img.shields.io/badge/Blog-134881?style=flat-square&logo=github&logoColor=ffffff"/></a>
   <a href="mailto:gongjunyeol@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=ffffff"/></a>
+  <a href="https://joonyle99.github.io"><img src="https://img.shields.io/badge/Blog-134881?style=flat-square&logo=github&logoColor=ffffff"/></a>
 </div>
 
 ### Platform & Language
