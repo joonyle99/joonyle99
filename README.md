@@ -18,6 +18,7 @@ I'm studying game client programming. 🎮
 
 <div>
   <a href="https://joonyle99.github.io"><img src="https://img.shields.io/badge/GitHub Blog-134881?style=flat-square&logo=github&logoColor=ffffff"/></a>
+  <a href="https://joonlye99.tistory.com"><img src="https://img.shields.io/badge/Tistory Blog-FF5A4A?style=flat-square&logo=tistory&logoColor=ffffff"/></a>
 </div>
 
 <br>
