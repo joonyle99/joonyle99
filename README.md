@@ -33,7 +33,7 @@ I'm fascinated by the AI revolution we're living through.
 <!-- unity -->
     <img src="https://img.shields.io/badge/Claude 3.5 sonnet-191919?style=flat-square&logo=anthropic&logoColor=ffffff"/>
 <!-- unity -->
-    <img src="https://img.shields.io/badge/Gemini 1.5-4285F4?style=flat-square&logo=google&logoColor=ffffff"/>
+    <img src="https://img.shields.io/badge/Gemini 1.5 pro-4285F4?style=flat-square&logo=google&logoColor=ffffff"/>
   </a>
 </div>
 
