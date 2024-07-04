@@ -28,12 +28,13 @@ I'm fascinated by the AI revolution we're living through.
 
 <div>
   <a>
-<!-- unity -->
+<!-- GPT -->
     <img src="https://img.shields.io/badge/GPT&#8208;4o-412991?style=flat-square&logo=openai&logoColor=ffffff"/>
-<!-- unity -->
+<!-- Claude -->
     <img src="https://img.shields.io/badge/Claude 3.5 sonnet-191919?style=flat-square&logo=anthropic&logoColor=ffffff"/>
-<!-- unity -->
+<!-- Gemini 
     <img src="https://img.shields.io/badge/Gemini 1.5 pro-4285F4?style=flat-square&logo=google&logoColor=ffffff"/>
+    -->
   </a>
 </div>
 
@@ -97,7 +98,5 @@ I'm always exploring ways to integrate AI tools into my workflow to enhance **ef
   <!-- 백준 티어 표시
   [![Solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=da42)](https://solved.ac/da42) -->
 
-  [**Algorithm Repository**](https://github.com/joonyle99/Algorithm)
-  
   [![Solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=da42)](https://solved.ac/da42)
 </div>
