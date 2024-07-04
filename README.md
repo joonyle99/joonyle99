@@ -42,7 +42,7 @@ I'm fascinated by the AI revolution we're living through.
 My interest lies in leveraging generative AI to boost **productivity** and create superior outcomes.  
 I'm always exploring ways to integrate AI tools into my workflow to enhance **efficiency** and quality in game development.
 
-[AIEXE](https://www.npmjs.com/package/aiexe) : AI Agent for your Productivity 🤖
+[**AIEXE**](https://www.npmjs.com/package/aiexe) : AI Agent for your Productivity 🤖
 
 <br>
 
@@ -97,7 +97,7 @@ I'm always exploring ways to integrate AI tools into my workflow to enhance **ef
   <!-- 백준 티어 표시
   [![Solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=da42)](https://solved.ac/da42) -->
 
-  [Algorithm Repository](https://github.com/joonyle99/Algorithm)
+  [**Algorithm Repository**](https://github.com/joonyle99/Algorithm)
   
   [![Solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=da42)](https://solved.ac/da42)
 </div>
