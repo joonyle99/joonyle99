@@ -96,6 +96,9 @@ I'm always exploring ways to integrate AI tools into my workflow to enhance **ef
 <div>
   <!-- 백준 티어 표시
   [![Solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=da42)](https://solved.ac/da42) -->
+  [Algorithm Repository](https://github.com/joonyle99/Algorithm)
+
+  <br>
   
   [![Solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=da42)](https://solved.ac/da42)
 </div>
