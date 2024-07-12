@@ -40,9 +40,6 @@ I'm fascinated by the AI revolution we're living through.
 
 <br>
 
-My interest lies in leveraging generative AI to boost **productivity** and create superior outcomes.  
-I'm always exploring ways to integrate AI tools into my workflow to enhance **efficiency** and quality in game development.
-
 [**AIEXE**](https://www.npmjs.com/package/aiexe) : AI Agent for your Productivity 🤖
 
 <br>
