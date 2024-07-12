@@ -30,17 +30,14 @@ I'm fascinated by the AI revolution we're living through.
   <a>
 <!-- GPT -->
     <img src="https://img.shields.io/badge/GPT&#8208;4o-412991?style=flat-square&logo=openai&logoColor=ffffff"/>
+  </a>
+  <a>
 <!-- Claude -->
-    <img src="https://img.shields.io/badge/Claude 3.5 sonnet-191919?style=flat-square&logo=anthropic&logoColor=ffffff"/>
-<!-- Gemini 
-    <img src="https://img.shields.io/badge/Gemini 1.5 pro-4285F4?style=flat-square&logo=google&logoColor=ffffff"/>
-    -->
+    <img src="https://img.shields.io/badge/Claude 3.5 sonnet-D97757?style=flat-square&logo=anthropic&logoColor=ffffff"/>
   </a>
 </div>
 
-<br>
-
-[**AIEXE**](https://www.npmjs.com/package/aiexe) : AI Agent for your Productivity 🤖
+<!-- [**AIEXE**](https://www.npmjs.com/package/aiexe) : AI Agent for your Productivity 🤖 -->
 
 <br>
 
