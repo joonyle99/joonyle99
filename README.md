@@ -47,22 +47,23 @@ I'm fascinated by the AI revolution we're living through.
   <a>
 <!-- unity -->
     <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=ffffff"/>
-<!-- git -->
+<!-- git 
     <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=ffffff"/>
+-->
   </a>
+<!--
   <br>
   <a>
-<!-- visual studio -->
     <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=ffffff"/>
-<!-- vs code -->
     <img src="https://img.shields.io/badge/VS Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=ffffff"/>
   </a>
+-->
   <br>
   <a>
-<!-- c++ -->
-    <img src="https://img.shields.io/badge/CPlusPlus-00599C?style=flat-square&logo=cplusplus&logoColor=ffffff"/>
 <!-- c# -->
     <img src="https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=csharp&logoColor=ffffff"/>
+<!-- c++ -->
+    <img src="https://img.shields.io/badge/CPlusPlus-00599C?style=flat-square&logo=cplusplus&logoColor=ffffff"/>
   </a>
 </div>
 
