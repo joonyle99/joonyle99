@@ -60,10 +60,10 @@ I'm fascinated by the AI revolution we're living through.
 -->
   <br>
   <a>
-<!-- c# -->
-    <img src="https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=csharp&logoColor=ffffff"/>
 <!-- c++ -->
     <img src="https://img.shields.io/badge/CPlusPlus-00599C?style=flat-square&logo=cplusplus&logoColor=ffffff"/>
+<!-- c# -->
+    <img src="https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=csharp&logoColor=ffffff"/>
   </a>
 </div>
 
