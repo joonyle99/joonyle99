@@ -24,7 +24,8 @@ I'm studying game client programming. 🎮
 <br>
 
 ### Interesting 🧠
-I'm fascinated by the AI revolution we're living through.
+I'm fascinated by the AI revolution we're living through.  
+[**AIEXE**](https://www.npmjs.com/package/aiexe) : AI Agent for your Productivity 🤖
 
 <div>
   <a>
@@ -36,8 +37,6 @@ I'm fascinated by the AI revolution we're living through.
     <img src="https://img.shields.io/badge/Claude 3.5 sonnet-D97757?style=flat-square&logo=anthropic&logoColor=ffffff"/>
   </a>
 </div>
-
-<!-- [**AIEXE**](https://www.npmjs.com/package/aiexe) : AI Agent for your Productivity 🤖 -->
 
 <br>
 
