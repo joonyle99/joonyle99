@@ -14,12 +14,14 @@ Here are some ideas to get you started:
 -->
 
 ### Hi there 👋
-I'm studying game client programming. 🎮
+I'm studying game programming. 🎮
 
 <div>
   <a href="https://joonyle99.github.io"><img src="https://img.shields.io/badge/GitHub Blog (Old)-134881?style=flat-square&logo=github&logoColor=ffffff"/></a>
   <a href="https://joonlye99.tistory.com"><img src="https://img.shields.io/badge/Tistory Blog (New)-FF5A4A?style=flat-square&logo=tistory&logoColor=ffffff"/></a>
 </div>
+
+<!--
 
 <br>
 
@@ -29,26 +31,27 @@ I'm fascinated by the AI revolution we're living through.
 
 <div>
   <a>
-<!-- GPT -->
     <img src="https://img.shields.io/badge/GPT&#8208;4o-412991?style=flat-square&logo=openai&logoColor=ffffff"/>
   </a>
   <a>
-<!-- Claude -->
     <img src="https://img.shields.io/badge/Claude 3.5 sonnet-D97757?style=flat-square&logo=anthropic&logoColor=ffffff"/>
   </a>
 </div>
 
+-->
+
 <br>
 
-### Currently Using 💻
+### Using 💻
 
 <div>
   <a>
 <!-- unity -->
     <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=ffffff"/>
-<!-- git 
-    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=ffffff"/>
--->
+<!-- DirectX11 -->
+    <img src="https://img.shields.io/badge/DirectX11-76B900?style=flat-square&logo=nvidia&logoColor=ffffff"/>
+<!-- Win32API -->
+    <img src="https://img.shields.io/badge/Win32API-0078D4?style=flat-square&logo=windows11&logoColor=ffffff"/>
   </a>
 <!--
   <br>
@@ -63,22 +66,6 @@ I'm fascinated by the AI revolution we're living through.
     <img src="https://img.shields.io/badge/CPlusPlus-00599C?style=flat-square&logo=cplusplus&logoColor=ffffff"/>
 <!-- c# -->
     <img src="https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=csharp&logoColor=ffffff"/>
-  </a>
-</div>
-
-### Previously Used 🧰
-
-<div>
-  <a>
-<!-- DirectX11 -->
-    <img src="https://img.shields.io/badge/DirectX11-76B900?style=flat-square&logo=nvidia&logoColor=ffffff"/>
-<!-- Win32API -->
-    <img src="https://img.shields.io/badge/Win32API-0078D4?style=flat-square&logo=windows11&logoColor=ffffff"/>
-  </a>
-  <br>
-  <a>
-<!-- Blender -->
-    <img src="https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=ffffff"/>
 <!-- Lua -->
     <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=ffffff"/>
   </a>
